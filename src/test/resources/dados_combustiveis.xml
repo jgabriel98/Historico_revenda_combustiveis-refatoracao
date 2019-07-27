@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<registros>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>CASCOL COMBUSTIVEIS PARA VEICULOS LTDA</revendaInstalacao>
+		<codigoProduto>193001</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>CASCOL COMBUSTIVEIS PARA VEICULOS LTDA</revendaInstalacao>
+		<codigoProduto>192991</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>CASCOL COMBUSTIVEIS PARA VEICULOS LTDA</revendaInstalacao>
+		<codigoProduto>192980</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>EIXINHO L 212 NORTE COMERCIO DE COMBUSTIVEIS E DERIVADOS LTDA</revendaInstalacao>
+		<codigoProduto>186899</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.099</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>RAIZEN</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>EUROGAS-POSTOS DE SERVI�OS LTDA</revendaInstalacao>
+		<codigoProduto>7826</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.479</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>GP COMERCIO DE PETROLEO LTDA EPP</revendaInstalacao>
+		<codigoProduto>7780</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra>2.8043</valorDeCompra>
+		<valorDeVenda>3.28</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>LR COMERCIO DE PRODUTOS E DERIVADOS DE PETROLEO LTDA</revendaInstalacao>
+		<codigoProduto>7883</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.239</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>RAIZEN</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>PETRONORTE COMBUST�VEIS LTDA.</revendaInstalacao>
+		<codigoProduto>174649</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.074</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>POSTO DA TORRE EIRELI</revendaInstalacao>
+		<codigoProduto>7898</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.459</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>DF</siglaEstado>
+		<siglaMunicipio>BRASILIA</siglaMunicipio>
+		<revendaInstalacao>POSTO PARK TAGUATINGA DERIVADOS DE PETROLEO LTDA</revendaInstalacao>
+		<codigoProduto>7825</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.868</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>AGUAS LINDAS POSTO SERVICOS LTDA</revendaInstalacao>
+		<codigoProduto>10446</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>05/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.19</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>RAIZEN</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO JARDIM BRASILIA LTDA</revendaInstalacao>
+		<codigoProduto>59314</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>05/07/2017</dataDaColeta>
+		<valorDeCompra>2.8398</valorDeCompra>
+		<valorDeVenda>3.189</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>MIZUNO KAY &amp; CIA LTDA</revendaInstalacao>
+		<codigoProduto>59317</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>05/07/2017</dataDaColeta>
+		<valorDeCompra>2.8465</valorDeCompra>
+		<valorDeVenda>3.09</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>REAL AUTO POSTO E SERVI�OS LTDA.</revendaInstalacao>
+		<codigoProduto>59315</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>05/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.27</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>AGUAS LINDAS POSTO SERVICOS LTDA</revendaInstalacao>
+		<codigoProduto>10446</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.19</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>RAIZEN</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO JARDIM BRASILIA LTDA</revendaInstalacao>
+		<codigoProduto>59314</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra>2.8398</valorDeCompra>
+		<valorDeVenda>3.189</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>MIZUNO KAY &amp; CIA LTDA</revendaInstalacao>
+		<codigoProduto>59317</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra>2.8465</valorDeCompra>
+		<valorDeVenda>2.989</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>REAL AUTO POSTO E SERVI�OS LTDA.</revendaInstalacao>
+		<codigoProduto>59315</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.27</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>GO</siglaEstado>
+		<siglaMunicipio>AGUAS LINDAS DE GOIAS</siglaMunicipio>
+		<revendaInstalacao>AGUAS LINDAS POSTO SERVICOS LTDA</revendaInstalacao>
+		<codigoProduto>10446</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>19/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.19</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>RAIZEN</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>NOVA ANDRADINA</siglaMunicipio>
+		<revendaInstalacao>PETRONAN COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>197809</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>27/12/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.789</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO GIRASSOL LTDA.</revendaInstalacao>
+		<codigoProduto>15649</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>TAURUS</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO TREVAO LTDA</revendaInstalacao>
+		<codigoProduto>15636</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra>2.769</valorDeCompra>
+		<valorDeVenda>3.339</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>CASTANHA &amp; MAGRINI LTDA</revendaInstalacao>
+		<codigoProduto>15650</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.379</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>ENGEQUALITY LTDA</revendaInstalacao>
+		<codigoProduto>216304</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.359</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>TAURUS</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>J A COSTA JUNIOR &amp; CIA LTDA</revendaInstalacao>
+		<codigoProduto>15645</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.358</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>J A COSTA JUNIOR &amp; CIA LTDA</revendaInstalacao>
+		<codigoProduto>15647</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.356</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO GIRASSOL LTDA.</revendaInstalacao>
+		<codigoProduto>15649</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>11/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>TAURUS</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO TREVAO LTDA</revendaInstalacao>
+		<codigoProduto>15636</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>11/07/2017</dataDaColeta>
+		<valorDeCompra>2.769</valorDeCompra>
+		<valorDeVenda>3.339</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MS</siglaEstado>
+		<siglaMunicipio>PARANAIBA</siglaMunicipio>
+		<revendaInstalacao>CASTANHA &amp; MAGRINI LTDA</revendaInstalacao>
+		<codigoProduto>15650</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>11/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.379</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>PAULO SERGIO DIAS - POSTO</revendaInstalacao>
+		<codigoProduto>15928</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>05/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.29</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>PETROLUZ BANDEIRANTES AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>214752</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>05/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.05</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROLUZ</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO EVEREST LTDA.</revendaInstalacao>
+		<codigoProduto>15956</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra>2.45</valorDeCompra>
+		<valorDeVenda>3.07</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO J F LTDA</revendaInstalacao>
+		<codigoProduto>151427</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.89</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO SARITA LTDA.</revendaInstalacao>
+		<codigoProduto>186009</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra>2.8593</valorDeCompra>
+		<valorDeVenda>3.059</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO TUIUIU LTDA</revendaInstalacao>
+		<codigoProduto>15972</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.149</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>COMLUC - COMERCIO DE LUBRIFICANTES E COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>15958</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.07</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>RAIZEN</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>PAULO SERGIO DIAS - POSTO</revendaInstalacao>
+		<codigoProduto>15928</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.29</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>PAULO SERGIO DIAS - POSTO</revendaInstalacao>
+		<codigoProduto>205790</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.5</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>CO</regiao>
+		<siglaEstado>MT</siglaEstado>
+		<siglaMunicipio>CACERES</siglaMunicipio>
+		<revendaInstalacao>PETROLUZ BANDEIRANTES AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>214752</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.05</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROLUZ</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO CATARINENSE LTDA</revendaInstalacao>
+		<codigoProduto>51900</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>18/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.96</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SABB�</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO CATARINENSE LTDA</revendaInstalacao>
+		<codigoProduto>204173</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>18/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.37</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO CINTA LARGA LTDA</revendaInstalacao>
+		<codigoProduto>190474</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>18/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.17</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO IRMAOS BATISTA LTDA</revendaInstalacao>
+		<codigoProduto>51920</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>18/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.97</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO M�E E FILHAS LTDA</revendaInstalacao>
+		<codigoProduto>187568</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>18/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.149</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>EQUADOR</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO TAFFAREL LTDA - ME</revendaInstalacao>
+		<codigoProduto>198240</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>18/07/2017</dataDaColeta>
+		<valorDeCompra>2.7999</valorDeCompra>
+		<valorDeVenda>3.249</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>CARVALHO &amp;CARVALHO LTDA</revendaInstalacao>
+		<codigoProduto>204666</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>18/07/2017</dataDaColeta>
+		<valorDeCompra>2.6571</valorDeCompra>
+		<valorDeVenda>3.099</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>TREVO COMBUSTIVEIS E LUBRIFICANTES LTDA</revendaInstalacao>
+		<codigoProduto>51898</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>18/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.98</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>AM</siglaEstado>
+		<siglaMunicipio>MANAUS</siglaMunicipio>
+		<revendaInstalacao>NAVERIO NAVEGACAO DO RIO AMAZONAS LTDA</revendaInstalacao>
+		<codigoProduto>40554</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.35</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>ATEM&#x27; S</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>AM</siglaEstado>
+		<siglaMunicipio>MANAUS</siglaMunicipio>
+		<revendaInstalacao>POSTO CAMAPUA COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA.</revendaInstalacao>
+		<codigoProduto>181768</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.29</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>RAIZEN</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>AM</siglaEstado>
+		<siglaMunicipio>MANAUS</siglaMunicipio>
+		<revendaInstalacao>POSTO MANAUTO LTDA</revendaInstalacao>
+		<codigoProduto>40785</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.35</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>AM</siglaEstado>
+		<siglaMunicipio>MANAUS</siglaMunicipio>
+		<revendaInstalacao>POSTO SANTA INES COMERCIO DE DERIVADOS DE PETROLEO LTDA</revendaInstalacao>
+		<codigoProduto>199234</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.09</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>ATEM&#x27; S</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>AM</siglaEstado>
+		<siglaMunicipio>MANAUS</siglaMunicipio>
+		<revendaInstalacao>POSTO 3000 LTDA</revendaInstalacao>
+		<codigoProduto>40655</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.449</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SABB�</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>AM</siglaEstado>
+		<siglaMunicipio>MANAUS</siglaMunicipio>
+		<revendaInstalacao>R R COMERCIO E REPRESENTACOES LTDA</revendaInstalacao>
+		<codigoProduto>40662</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra>2.984</valorDeCompra>
+		<valorDeVenda>3.15</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>EQUADOR</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>AM</siglaEstado>
+		<siglaMunicipio>MANAUS</siglaMunicipio>
+		<revendaInstalacao>SUBEL AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>40825</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.29</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>AM</siglaEstado>
+		<siglaMunicipio>MANAUS</siglaMunicipio>
+		<revendaInstalacao>VITORIA REGIA COMERCIO DE PETROLEO LTDA</revendaInstalacao>
+		<codigoProduto>156605</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra>3.1496</valorDeCompra>
+		<valorDeVenda>3.29</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>SERVALE COMBUSTIVEIS LTDA - EPP</revendaInstalacao>
+		<codigoProduto>41663</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>08/11/2017</dataDaColeta>
+		<valorDeCompra>3</valorDeCompra>
+		<valorDeVenda>3.377</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>VICENTE ALVES DA MOTA DE JUAZEIRO</revendaInstalacao>
+		<codigoProduto>41649</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>08/11/2017</dataDaColeta>
+		<valorDeCompra>2.97</valorDeCompra>
+		<valorDeVenda>3.3</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBAHIA</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>ESTACAO - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA</revendaInstalacao>
+		<codigoProduto>41645</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>22/11/2017</dataDaColeta>
+		<valorDeCompra>3.0788</valorDeCompra>
+		<valorDeVenda>3.3</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>NASCIMENTO E ALEXANDRE LTDA</revendaInstalacao>
+		<codigoProduto>41678</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>22/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.359</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>POSTO JUAZEIRO 3 LTDA</revendaInstalacao>
+		<codigoProduto>193500</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>22/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.359</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>POSTO VIP LTDA</revendaInstalacao>
+		<codigoProduto>41689</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>22/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>QUALIDADE COMERCIO VAREJISTA DE COMBUSTIVEIS, LUBRIFICANTES E TRANSPORTE DE CARGAS LTDA</revendaInstalacao>
+		<codigoProduto>41653</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>22/11/2017</dataDaColeta>
+		<valorDeCompra>3.0884</valorDeCompra>
+		<valorDeVenda>3.3</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>SERVALE COMBUSTIVEIS LTDA - EPP</revendaInstalacao>
+		<codigoProduto>41663</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>22/11/2017</dataDaColeta>
+		<valorDeCompra>3.0947</valorDeCompra>
+		<valorDeVenda>3.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>VICENTE ALVES DA MOTA DE JUAZEIRO</revendaInstalacao>
+		<codigoProduto>41649</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>22/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.38</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBAHIA</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>BA</siglaEstado>
+		<siglaMunicipio>JUAZEIRO</siglaMunicipio>
+		<revendaInstalacao>ESTACAO - COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA</revendaInstalacao>
+		<codigoProduto>41645</codigoProduto>
+		<nomeProduto>DIESEL</nomeProduto>
+		<dataDaColeta>06/12/2017</dataDaColeta>
+		<valorDeCompra>3.0788</valorDeCompra>
+		<valorDeVenda>3.3</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>ANDRADE E ANDRADE COM�RCIO DE COMBUSTIVEIS E DERIVADOS DE PETR�LEO LTDA</revendaInstalacao>
+		<codigoProduto>190720</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>21/11/2017</dataDaColeta>
+		<valorDeCompra>3.69</valorDeCompra>
+		<valorDeVenda>4.199</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>EQUADOR</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO CATARINENSE LTDA</revendaInstalacao>
+		<codigoProduto>51900</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>21/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>4.19</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SABB�</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO CATARINENSE LTDA</revendaInstalacao>
+		<codigoProduto>204173</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>21/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>4.19</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO CAVALO BRANCO LTDA</revendaInstalacao>
+		<codigoProduto>213740</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>21/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>4.189</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO CINTA LARGA LTDA</revendaInstalacao>
+		<codigoProduto>190474</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>21/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>4.09</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO M�E E FILHAS LTDA</revendaInstalacao>
+		<codigoProduto>187568</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>21/11/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>4.22</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>EQUADOR</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO TAFFAREL LTDA - ME</revendaInstalacao>
+		<codigoProduto>198240</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>21/11/2017</dataDaColeta>
+		<valorDeCompra>3.72</valorDeCompra>
+		<valorDeVenda>4.199</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>N</regiao>
+		<siglaEstado>RO</siglaEstado>
+		<siglaMunicipio>VILHENA</siglaMunicipio>
+		<revendaInstalacao>ANDRADE E ANDRADE COM�RCIO DE COMBUSTIVEIS E DERIVADOS DE PETR�LEO LTDA</revendaInstalacao>
+		<codigoProduto>190720</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>05/12/2017</dataDaColeta>
+		<valorDeCompra>3.69</valorDeCompra>
+		<valorDeVenda>4.199</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>EQUADOR</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>7005</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>03/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.87</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SP</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>7004</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>03/07/2017</dataDaColeta>
+		<valorDeCompra>3.3247</valorDeCompra>
+		<valorDeVenda>3.89</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SP</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>6996</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>03/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.9</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SP</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>7003</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>04/07/2017</dataDaColeta>
+		<valorDeCompra>3.462</valorDeCompra>
+		<valorDeVenda>3.89</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>7004</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>10/07/2017</dataDaColeta>
+		<valorDeCompra>3.3247</valorDeCompra>
+		<valorDeVenda>3.89</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SP</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>6996</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>10/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.83</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SP</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>7005</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>10/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.87</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SP</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>7003</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>11/07/2017</dataDaColeta>
+		<valorDeCompra>3.462</valorDeCompra>
+		<valorDeVenda>3.89</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>7004</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>17/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.89</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>SP</bandeira>
+	</registro>
+	<registro>
+		<regiao>NE</regiao>
+		<siglaEstado>CE</siglaEstado>
+		<siglaMunicipio>BEBERIBE</siglaMunicipio>
+		<revendaInstalacao>COLACO MARTINS COMERCIO DE COMBUSTIVEIS LTDA</revendaInstalacao>
+		<codigoProduto>7003</codigoProduto>
+		<nomeProduto>GASOLINA</nomeProduto>
+		<dataDaColeta>17/07/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>3.89</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO VICENTE</siglaMunicipio>
+		<revendaInstalacao>SUPER POSTO 800 MILHAS LTDA</revendaInstalacao>
+		<codigoProduto>38651</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>29/08/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.549</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO VICENTE</siglaMunicipio>
+		<revendaInstalacao>SUPER POSTO 800 MILHAS LTDA</revendaInstalacao>
+		<codigoProduto>38651</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>12/09/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.549</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO VICENTE</siglaMunicipio>
+		<revendaInstalacao>SUPER POSTO 800 MILHAS LTDA</revendaInstalacao>
+		<codigoProduto>38651</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>24/10/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.549</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO VICENTE</siglaMunicipio>
+		<revendaInstalacao>SUPER POSTO 800 MILHAS LTDA</revendaInstalacao>
+		<codigoProduto>38651</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>08/11/2017</dataDaColeta>
+		<valorDeCompra>1.8806</valorDeCompra>
+		<valorDeVenda>2.599</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO VICENTE</siglaMunicipio>
+		<revendaInstalacao>SUPER POSTO 800 MILHAS LTDA</revendaInstalacao>
+		<codigoProduto>38651</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>20/12/2017</dataDaColeta>
+		<valorDeCompra>1.88</valorDeCompra>
+		<valorDeVenda>2.599</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>06/07/2017</dataDaColeta>
+		<valorDeCompra>1.327</valorDeCompra>
+		<valorDeVenda>1.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>12/07/2017</dataDaColeta>
+		<valorDeCompra>1.3535</valorDeCompra>
+		<valorDeVenda>1.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>20/07/2017</dataDaColeta>
+		<valorDeCompra>1.3535</valorDeCompra>
+		<valorDeVenda>1.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>25/07/2017</dataDaColeta>
+		<valorDeCompra>1.3535</valorDeCompra>
+		<valorDeVenda>1.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>31/07/2017</dataDaColeta>
+		<valorDeCompra>1.3535</valorDeCompra>
+		<valorDeVenda>1.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>14/08/2017</dataDaColeta>
+		<valorDeCompra>1.3535</valorDeCompra>
+		<valorDeVenda>1.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>29/08/2017</dataDaColeta>
+		<valorDeCompra>1.3534</valorDeCompra>
+		<valorDeVenda>2.099</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>12/09/2017</dataDaColeta>
+		<valorDeCompra>1.3534</valorDeCompra>
+		<valorDeVenda>2.099</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>26/09/2017</dataDaColeta>
+		<valorDeCompra>1.5671</valorDeCompra>
+		<valorDeVenda>2.199</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>10/10/2017</dataDaColeta>
+		<valorDeCompra>1.5671</valorDeCompra>
+		<valorDeVenda>2.199</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SOROCABA</siglaMunicipio>
+		<revendaInstalacao>IPANEMA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>38874</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>25/10/2017</dataDaColeta>
+		<valorDeCompra>1.5666</valorDeCompra>
+		<valorDeVenda>2.199</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO BERTIOGA LTDA</revendaInstalacao>
+		<codigoProduto>37409</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>26/07/2017</dataDaColeta>
+		<valorDeCompra>1.9697</valorDeCompra>
+		<valorDeVenda>2.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO QUALITA LTDA</revendaInstalacao>
+		<codigoProduto>37860</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>27/07/2017</dataDaColeta>
+		<valorDeCompra>1.9756</valorDeCompra>
+		<valorDeVenda>2.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO BERTIOGA LTDA</revendaInstalacao>
+		<codigoProduto>37409</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>01/08/2017</dataDaColeta>
+		<valorDeCompra>1.9697</valorDeCompra>
+		<valorDeVenda>2.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO IMB� LTDA.</revendaInstalacao>
+		<codigoProduto>36679</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>01/08/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>1.999</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>ALE COMBUST�VEIS</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO LINDOIA LTDA</revendaInstalacao>
+		<codigoProduto>37429</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>01/08/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.099</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>BRANCA</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO OITI LTDA</revendaInstalacao>
+		<codigoProduto>37820</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>01/08/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.298</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>AUTO POSTO QUALITA LTDA</revendaInstalacao>
+		<codigoProduto>37860</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>01/08/2017</dataDaColeta>
+		<valorDeCompra>1.9756</valorDeCompra>
+		<valorDeVenda>2.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>PETROBRAS DISTRIBUIDORA S.A.</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>DUQUE SANTANA AUTO POSTO LTDA</revendaInstalacao>
+		<codigoProduto>36999</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>01/08/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.099</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>AUTOMOTIVO TANGERINAS LTDA</revendaInstalacao>
+		<codigoProduto>38100</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>03/08/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.299</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>ARGETAX ADMINISTRACAO E PARTICIPACOES EM EMPREENDIMENTOS COMERCIAIS LTDA</revendaInstalacao>
+		<codigoProduto>166901</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>10/08/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>1.949</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>RAIZEN</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>NIKIGAS COMERCIAL LTDA</revendaInstalacao>
+		<codigoProduto>36620</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>10/08/2017</dataDaColeta>
+		<valorDeCompra/>
+		<valorDeVenda>2.099</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+	<registro>
+		<regiao>SE</regiao>
+		<siglaEstado>SP</siglaEstado>
+		<siglaMunicipio>SAO PAULO</siglaMunicipio>
+		<revendaInstalacao>POSTO DE SERVICO CONFIANCA LTDA</revendaInstalacao>
+		<codigoProduto>37996</codigoProduto>
+		<nomeProduto>GNV</nomeProduto>
+		<dataDaColeta>10/08/2017</dataDaColeta>
+		<valorDeCompra>1.7878</valorDeCompra>
+		<valorDeVenda>2.099</valorDeVenda>
+		<unidadeDeMedida>litro</unidadeDeMedida>
+		<bandeira>IPIRANGA</bandeira>
+	</registro>
+</registros>
